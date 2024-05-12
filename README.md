@@ -3,7 +3,9 @@
 ## Documentação Detalhada do Modelo Relacional
 
 **Projeto:** Sistema de Feedbacks do Cesim Game
+
 **Data:** 2024-05-12  
+
 **Autor:** Thiago Volcati
 **Objetivo:** Este documento visa fornecer uma descrição detalhada do modelo relacional utilizado no projeto de jogo interativo. O foco está em mapear as interações e feedbacks dos usuários durante as diversas fases do jogo, destacando a estrutura de dados e os relacionamentos essenciais.
 
@@ -395,7 +397,7 @@ Segue o diagrama do modelo relacional, ilustrando as entidades envolvidas e seus
 
 ### Postgre SQL code
 
-``` postgresql
+``` sql
 -- ---
 -- Tabelas 'Usuário'
 -- ---
